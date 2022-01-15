@@ -1,4 +1,4 @@
-// JS Goes here - ES6 supported
+// JS Goes here - ES6 supported //testes 123
 if (window.netlifyIdentity) {
   window.netlifyIdentity.on("init", (user) => {
     if (!user) {
